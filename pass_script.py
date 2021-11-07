@@ -15,3 +15,6 @@ def pass_gen(alp):
 def main():
     pass_gen(alp)
 
+if __name__ == "__main__":
+    main()
+
